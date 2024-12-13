@@ -33,4 +33,8 @@ npm run dev
 Roles de los integrantes
 •	Favian Saa: Desarrollo del frontend.
 •	Harold Villalba: Desarrollo del backend
+• Kevin Leizano DB Manager
+• Brenda Orozco Lider del proyecto
+	
+
 
